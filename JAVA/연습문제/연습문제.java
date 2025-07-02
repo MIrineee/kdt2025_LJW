@@ -1,4 +1,4 @@
-''' 
+
 public class Anonymous {
         Worker field = new Worker() {
 
@@ -23,4 +23,4 @@ public class Anonymous {
             worker.start();
         }
     }
-'''
+
